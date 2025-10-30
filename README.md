@@ -235,7 +235,7 @@ This project is licensed under the **MIT License** - see the LICENSE file for de
 
 **Varshan N**  
 📧 Email: [Contact via GitHub](https://github.com/Varshan-N)  
-💼 LinkedIn: [Connect with me](https://www.linkedin.com/in/varshan-n)  
+💼 LinkedIn: [Connect with me](https://www.linkedin.com/in/me/)  
 🐙 GitHub: [@Varshan-N](https://github.com/Varshan-N)
 
 ---
